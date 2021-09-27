@@ -11,3 +11,7 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 # License
 MIT (https://choosealicense.com/licenses/mit/)
+
+# Markdown dosyanızın içine projemizin bir resmini koyun.
+<img width="710" alt="ss" src="https://user-images.githubusercontent.com/90719564/135000423-31f788f2-568e-459a-a88d-be104f85cb70.png">
+
